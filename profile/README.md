@@ -51,9 +51,4 @@
 * 官网配套演示：[https://gitee.com/noear/solon-examples](https://gitee.com/noear/solon-examples)
 * 用户案例：[用户开源项目](https://solon.noear.org/article/555)、[用户商业项目](https://solon.noear.org/article/cases)
 
-## 特别感谢JetBrains对开源项目支持：
-
-<a href="https://jb.gg/OpenSourceSupport">
-  <img src="https://user-images.githubusercontent.com/8643542/160519107-199319dc-e1cf-4079-94b7-01b6b8d23aa6.png" align="left" height="100" width="100"  alt="JetBrains">
-</a>
 
