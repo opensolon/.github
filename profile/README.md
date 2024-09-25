@@ -22,11 +22,11 @@
 		<img src="https://img.shields.io/badge/JDK-22-green.svg" alt="jdk-22" />
 	</a>
     <br />
-    <a target="_blank" href='https://gitee.com/noear/solon/stargazers'>
-		<img src='https://gitee.com/noear/solon/badge/star.svg' alt='gitee star'/>
+    <a target="_blank" href='https://gitee.com/opensolon/solon/stargazers'>
+		<img src='https://gitee.com/opensolon/solon/badge/star.svg' alt='gitee star'/>
 	</a>
-    <a target="_blank" href='https://github.com/noear/solon/stargazers'>
-		<img src="https://img.shields.io/github/stars/noear/solon.svg?logo=github" alt="github star"/>
+    <a target="_blank" href='https://github.com/opensolon/solon/stargazers'>
+		<img src="https://img.shields.io/github/stars/opensolon/solon.svg?style=flat&logo=github" alt="github star"/>
 	</a>
 </p>
 
