@@ -33,22 +33,24 @@
 
 <hr />
 
-## 特性:
+
+## Features:
+
+| Feature      | Description                                                                 | 
+|--------------|-----------------------------------------------------------------------------| 
+| Better cost performance for computing resources   | 300% higher concurrency 50% memory savings                            |
+| Faster development productivity      | Less code; Quick to get started; Debug restarts are 10x faster     |
+| Better production and deployment experience   | Pack 90% smaller |
+| Greater range of compatibility      | Non-java-ee architecture; It also supports java8 ~ java22, graalvm native image                   |
 
 
-| 特性      |  描述 | 
-|---------| -------------------- | 
-| 更高的计算性价比 | 并发高 2～ 3 倍；内存省 50%     |
-| 更快的开发效率 | 内核小，入门快；调试重启可快至 10 倍     |
-| 更好的生产与部署体验 | 打包最多缩小 90%     |
-| 更大的兼容范围 | 非 java-ee 架构；同时支持 java8 ～ java22，graalvm native image      |
 
+## Official website and related examples, cases：
 
+* Official website address：[https://solon.noear.org](https://solon.noear.org)
+* Official website supporting demos：[https://gitee.com/opensolon/solon-examples](https://gitee.com/opensolon/solon-examples)
+* Project unit test：[__test](./__test/)
+* User case：[User open source project](https://solon.noear.org/article/555)、[User business project](https://solon.noear.org/article/cases)
 
-## 官网及相关示例、案例：
-
-* 官网地址：[https://solon.noear.org](https://solon.noear.org)
-* 官网配套演示：[https://gitee.com/noear/solon-examples](https://gitee.com/noear/solon-examples)
-* 用户案例：[用户开源项目](https://solon.noear.org/article/555)、[用户商业项目](https://solon.noear.org/article/cases)
 
 
